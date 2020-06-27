@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  display: inline-block;
+  height: 100vh;
+  width: 100vw;
+  padding: 5% 4.6875%;
+  background: linear-gradient( #363A3E 50%, rgba(54,58,62,0.08) 50% );
+  /* overflow: hidden; */
+}
+
+.pickar-logo-white {
+  height: 35px;
+  width: 99.8px;
+}
+
+/* .background-upper-half {
+  height: 50vh;
+  width: 100vw;
+  background-color: ;
+}
+
+.background-lower-half {
+  background-color: rgba(54,58,62,0.08);
+  height: 50vh;
+} */
